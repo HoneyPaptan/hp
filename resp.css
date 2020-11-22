@@ -1,0 +1,172 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.menu{
+    background-color: #9ad3bc;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+}
+.contents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.contents img{
+    width: 100px;
+    border-radius: 50px;
+    margin: 0px 100px;
+}
+.lists{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 100px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.lists a{
+    padding: 30px;
+    text-decoration: none;
+    color: #f3eac2;
+    font-size: 20px;
+
+   
+    
+}
+
+.showcase{
+    background: rgba(0, 0, 0, 0.7) url(Zero-Code.gif);
+    background-size: cover;
+    height: 150vh;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    font-family: Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #9ad3bc;
+
+
+}
+
+.head1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    font-family: Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #9ad3bc;
+
+    
+}
+
+.sect{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.showcase2
+{
+    height: 50vh;
+}
+.head2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+    margin: auto;
+    font-family: system-ui;
+
+}
+.head3{
+    font-size: 50px;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    margin: auto;
+}
+
+.ess{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items img{
+    width: 70vh;
+    border-radius: 14vh;
+    padding: 0px 70px;
+}
+
+.para1{
+
+    font-size: 25px;
+    font-family: system-ui;
+    width: 500px;
+}
+.heading{
+    font-size: 35px;
+    font-family: system-ui;
+}
+
+.showcase3.show2{
+    padding: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+
+
+}
+.showcase4{
+    padding: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+/* .items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+} */
+
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+
+}
+
+.item img{
+    width: 70vh;
+    border-radius: 14vh;
+    padding: 0px 70px;
+}
